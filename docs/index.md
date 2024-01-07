@@ -1,6 +1,6 @@
 # 欢迎
 
-欢迎光临 [fennland](https://fennland.gitee.io). 您同样可以通过 [Github Pages](https://fennland.github.io), [Gitee Pages](https://fennland.gitee.io), 以及 [fennland 博客](https://fennland.me) 访问本站点.
+欢迎光临 [fennland](https://fennland.gitee.io). 您同样可以通过 [Github Pages](https://fennland.github.io), [Gitee Pages](https://fennland.gitee.io), 以及 [fennland 博客](https://fennland.cn) 访问本站点.
 
 ## 🏃🏻 谁是 fenn
 
@@ -8,7 +8,7 @@
 * `🌍 位置` 湖南株洲人，现居福建厦门
 * `🎂 生日` 2003年4月出生
 * `👣 学习方向` 全栈开发、SwiftUI、UniApp、Flutter、Unity2D
-* `🙇‍♂️ 项目经历` [一起拼](https://gitee.com/fennland/pin_demo), DDay, [DictationNow](https://github.com/fennland/dictation-tool)
+* `🙇‍♂️ 项目经历` [i华园臻湘小程序](https://hquer.fennland.cn/), [一起拼](https://gitee.com/fennland/pin_demo), DDay, [DictationNow](https://github.com/fennland/dictation-tool)
 * `📮 联系方式` [fennland 邮箱](mailto:fenn@fennland.me), [WeChat 公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg2NDYzMjY0Nw==&scene=117#wechat_redirect)
 
 ## 🗺️ 什么是 fennland

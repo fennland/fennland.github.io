@@ -27,8 +27,3 @@ plugins:
 
 nav:
   - 欢迎: 'index.md'
-  - 随笔: note/
-#    - 231220: 'note/note_231220.md'
-  - 技术札记: tech/
-#    - 231220: 'tech/tech_231220.md'
-#    - 231221: 'tech/tech_231221.md'
