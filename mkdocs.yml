@@ -1,1 +1,34 @@
 site_name: fennland
+site_author: fenn
+
+repo_url: https://gitee.com/fennland/fennland.gitee.io
+repo_name: Gitee
+
+theme:
+  name: material
+  locale: zh_CN
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - toc:
+      permalink: True
+  - footnotes
+  - tables
+  - markdown_checklist.extension
+
+plugins:
+  - literate-nav:
+      nav_file: README.md
+      implicit_index: false
+
+nav:
+  - 欢迎: 'index.md'
+  - 随笔: note/
+#    - 231220: 'note/note_231220.md'
+  - 技术札记: tech/
+#    - 231220: 'tech/tech_231220.md'
+#    - 231221: 'tech/tech_231221.md'
