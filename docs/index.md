@@ -13,13 +13,40 @@
 
 ## 🗺️ 什么是 fennland
 
-```python title="who_is_fennland.py"
-def who(fennland):
-	if fennland == "fennland":
-		print(f"{fennland} is...")
+```python title="what_is_fennland.py"
+import re
+import random
+
+class fennland:
+    def __init__(self, name, purpose):
+        self.name = name
+        self.purpose = purpose
+
+    def introduce(self):
+        introduction = f"This is {self.name}, which is designed to {self.purpose}."
+        poem = self.generate_poem()
+
+        clean_introduction = re.sub(r'[^\w\s]', '', introduction)
+
+        print(clean_introduction if clean_introduction else "Sorry, I couldn't introduce myself.")
+        print(poem)
+
+    def generate_poem(self):
+        subjects = ["moon", "sun", "stars", "flowers", "ocean"]
+        verbs = ["shine", "dance", "twinkle", "bloom", "flow"]
+        adjectives = ["beautiful", "bright", "glowing", "fragrant", "serene"]
+
+        subject = random.choice(subjects)
+        verb = random.choice(verbs)
+        adjective = random.choice(adjectives)
+
+        poem = f"The {subject} {verb} in the {adjective} night."
+
+        return poem
 
 if __name__ == "__main__":
-	who("fennland");
+    who = fennland("fennland", "write down and share some sparkling memos")
+    who.introduce()
 ```
 
 - 你将可以了解`fennland`最新动态，包括但不限于：
