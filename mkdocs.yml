@@ -7,6 +7,8 @@ repo_name: Gitee
 theme:
   name: material
   locale: zh_CN
+  logo: img/icon.png # logo
+  favicon: img/favicon.ico  # favicon
 
 markdown_extensions:
   - pymdownx.highlight:
