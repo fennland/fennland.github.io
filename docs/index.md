@@ -7,9 +7,9 @@
 * `👨‍🎓 学校` 华侨大学，计算机科学与技术学院，2021级计算机科学与技术1班，学生
 * `🌍 位置` 湖南株洲人，现居福建厦门
 * `🎂 生日` 2003年4月出生
-* `👣 学习方向` 全栈开发、SwiftUI、UniApp、Flutter、Unity2D
-* `🙇‍♂️ 项目经历` [i华园臻湘小程序](https://hquer.fennland.cn/), [一起拼](https://gitee.com/fennland/pin_demo), DDay, [DictationNow](https://github.com/fennland/dictation-tool)
-* `📮 联系方式` [fennland 邮箱](mailto:fenn@fennland.me), [WeChat 公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg2NDYzMjY0Nw==&scene=117#wechat_redirect)
+* `👣 学习方向` 全栈开发、UniApp、Flutter、SwiftUI、Golang、Unity2D
+* `🙇‍♂️ 项目经历` [华园小湘小程序](https://hquer.fennland.cn/), [一起拼](https://gitee.com/fennland/pin_demo), DDay, [DictationNow](https://github.com/fennland/dictation-tool)
+* `📮 联系方式` [fennland 邮箱](mailto:fenn@fennland.cn), [WeChat 公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg2NDYzMjY0Nw==&scene=117#wechat_redirect)
 
 ## 🗺️ 什么是 fennland
 
