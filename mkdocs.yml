@@ -3,6 +3,7 @@ site_author: fenn
 
 repo_url: https://gitee.com/fennland/fennland
 repo_name: Gitee
+copyright: <p><a href="https://beian.miit.gov.cn/" target="_blank">湘ICP备2024042279号</a> | <img src="img/beianmps.png" style="width:14px;margin-right:4px;"/><a href="https://beian.mps.gov.cn/#/query/webSearch?code=43020002000044" rel="noreferrer" target="_blank">湘公网安备43020002000044</a></p>
 
 theme:
   name: material
@@ -29,3 +30,6 @@ plugins:
 
 nav:
   - 欢迎: 'index.md'
+
+extra:
+  generator: false
