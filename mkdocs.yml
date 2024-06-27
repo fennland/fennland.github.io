@@ -1,9 +1,9 @@
 site_name: fennland
 site_author: fenn
 
-repo_url: https://gitee.com/fennland/fennland
-repo_name: Gitee
-copyright: <p><a href="https://beian.miit.gov.cn/" target="_blank">湘ICP备2024042279号</a> | <img src="img/beianmps.png" style="width:14px;margin-right:4px;"/><a href="https://beian.mps.gov.cn/#/query/webSearch?code=43020002000044" rel="noreferrer" target="_blank">湘公网安备43020002000044</a></p>
+repo_url: https://github.com/fennland/fennland
+repo_name: GitHub
+copyright: <p><a href="https://beian.miit.gov.cn/" target="_blank">湘ICP备2024042279号</a> | <img src="/img/beianmps.png" style="width:14px;margin-right:4px;"/><a href="https://beian.mps.gov.cn/#/query/webSearch?code=43020002000044" rel="noreferrer" target="_blank">湘公网安备43020002000044</a></p>
 
 theme:
   name: material
@@ -30,6 +30,14 @@ plugins:
 
 nav:
   - 欢迎: 'index.md'
+  - 简历:
+      - 校园经历: 'cv/uni.md'
+      - 工作能力: 'cv/work.md'
+  - 技术:
+      - 自动化测试: 'tech/autotest.md'
+  - 随笔:
+      - 《盐渍香橙》: 'diary/001.md'
+  - 关于: 'about.md'
 
 extra:
   generator: false
